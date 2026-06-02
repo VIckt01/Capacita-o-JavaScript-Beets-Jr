@@ -1,2 +1,3 @@
 let minhavariavel = 20;
-console.log(minhavariavel);
+let minhaString = "Hello Word";
+console.log(minhaString);
