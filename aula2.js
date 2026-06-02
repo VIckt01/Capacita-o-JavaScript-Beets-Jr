@@ -1,9 +1,17 @@
 let minhavariavel = 20;
 let outravariavel = 15;
-let soma = minhavariavel + outravariavel;
-console.log(soma);
-
-console.log(10 + minhavariavel);
+let soma = minhavariavel - outravariavel;
+//console.log(soma);
 
 let segundasoma = minhavariavel + outravariavel + 10;
 console.log(segundasoma);
+
+let quantidadeAlunosSala = 15;
+//let salas = 10;
+let quantidadeTotal = quantidadeAlunosSala * salas;
+
+//multiplicação
+console.log(quantidadeTotal);
+
+console.log(2 * 7 * 2);
+
